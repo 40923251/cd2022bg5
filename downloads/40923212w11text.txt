@@ -1,0 +1,49 @@
+<h2>W11</h2>
+<p>First&nbsp;</p>
+<p><span>把協同所做的倉儲內容上傳至小組倉儲，</span><span>上傳時務必要先將<span>圖片和wink<span style="background-color: #ff99cc;">改成遠端網址</span></span></span><span>，將source code的內容複製到小白窗存成文字檔<span style="background-color: #ff99cc;">記得加上.txt，</span></span>就可以推到小組網頁，操作方法如下。</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/pull req.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>second</p>
+<p>每個組員使用的繪圖軟體都不同，為了要將零件整合，所以組員們把檔案存成<span>STL檔，</span><span>就可以匯入其他的繪圖軟體，</span><span>也可以匯入CoppeliaSam裡面進行模擬操作，</span>先將MTB零件組合檔存成STL導入CoppeliaSam，再將零件分解並連接起來，存成<span>CoppeliaSim&nbsp;XLM的simple format檔。</span></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/xml.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
