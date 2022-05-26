@@ -1,0 +1,7 @@
+<h2>W13</h2>
+<p>這週下載了<span>CoppeliaSimEdu也就是CoppeliaSim 3.0版</span></p>
+<p><span><img alt="" height="265" src="/images/copp1.png" width="500"></span></p>
+<p><span style="background-color: #ffff00;">MTB機構</span></p>
+<p>用NX12繪製Pick and Place demo範例所需之零組件，零件組裝後，利用Coppeliasim模擬機械運轉。</p>
+<p><img alt="" height="263" src="/images/coppmtb.png" width="500"></p>
+<p></p>
