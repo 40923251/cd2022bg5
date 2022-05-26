@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-20T21:48:26+08:00</updated><entry><title>midterm</title><link href="./midterm.html" rel="alternate"></link><published>2022-04-14T14:50:00+08:00</published><updated>2022-04-20T21:48:26+08:00</updated><author><name>cd2022bg5</name></author><id>tag:None,2022-04-14:./midterm.html</id><summary type="html">&lt;p&gt;w7 工作分配及內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w7 工作分配及內容&lt;/p&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;將各工作分配給小組將uarm零件畫出&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;(Onshape: 40923212 ; 40923233)
+(Solvespace : 40923234 ; 40923237 ; 40923251)
+(Nx : 40923253 ; 40923229)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;將組員繪出各零件組合並轉檔成  ".stl"&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;轉入 CoppeliaSim並控制前三軸旋轉&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="Misc"></category><category term="2022 Spring CD"></category></entry></feed>
