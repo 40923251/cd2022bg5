@@ -1,0 +1,6 @@
+<h2>W1</h2>
+<p><span>IPV</span><span>6 設定</span></p>
+<p><span>設定-&gt;網路和網際網路-&gt;Proxy-&gt;</span></p>
+<p><span><img caption="false" height="521" src="https://40923207.github.io/cd2022/images/proxy.png" width="300"></span></p>
+<p><span>乙太網路&nbsp;<span>-&gt; 變更介面卡選項 -&gt; 又鍵點選"乙太網路" -&gt; 內容 -&gt; 取消勾選網際通訊協定第四版(TCP/IPv4)</span></span></p>
+<p><span><span><img alt="" height="382" src="https://40923207.github.io/cd2022/images/IPv4.png" width="300"></span></span></p>
