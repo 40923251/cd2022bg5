@@ -1,0 +1,3 @@
+<h2>w14</h2>
+<p><span>繪製 MTB robot 零組件後, 匯入&nbsp;CoppeliaSim 4.3.0 rev3</span><span><span>&nbsp;</span>建立 object 取放模擬場景</span></p>
+<p><span><img alt="" height="244" src="/images/14.png" width="452"><img alt="" height="238" src="/images/14-2.png" width="451"></span></p>
