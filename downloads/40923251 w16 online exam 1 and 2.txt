@@ -1,0 +1,59 @@
+<h1>w16</h1>
+<h2>online exam 1</h2>
+<p>第一題</p>
+<ol>
+<li>x:+0.3092#</li>
+<li>y:+0.2469#</li>
+<li>z:+0.4332#</li>
+</ol>
+<p>wink:</p>
+<p><span></span></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="960" height="510" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/40923251.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<h2>online exam 2</h2>
+<p><span>第二題</span></p>
+<ol>
+<li>joint1 : -10</li>
+<li>joint2 : -27~28</li>
+<li>joint3 : -32~-33</li>
+</ol>
+<p>吸盤末端中心點將移動至紅色方塊頂端中心</p>
+<p>wink:</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="960" height="510" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/40923251 2.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+</div>
+</div>

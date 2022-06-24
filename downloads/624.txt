@@ -1,0 +1,10 @@
+<h2>W6</h2>
+<p>使用Leo Edit編輯blog&nbsp;</p>
+<p></p>
+<p>leo內，內容更改完成後，點擊</p>
+<p><img alt="" height="403" src="/images/37-5.png" width="764"></p>
+<p>並在小黑框內輸入</p>
+<p>pelican markdown -o blog -s local_publishconf.py</p>
+<p>可到近端8444確認上傳後的結果</p>
+<p>確認完畢後，輸入 git pull</p>
+<p>acp "上傳內容"</p>

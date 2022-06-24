@@ -1,0 +1,10 @@
+<h2>w5</h2>
+<h3>逆向更新大組的倉儲</h3>
+<p><span>1.按Pull requests</span></p>
+<p><span><img alt="" height="483" src="/images/51-1.png" width="858"></span></p>
+<p><span>2.按New&nbsp;<span>Pull request</span></span></p>
+<p><span><span><img alt="" height="483" src="/images/51-2.png" width="858"></span></span></p>
+<p><span><span>3.原先按近來顯示的網址要將其對調</span></span></p>
+<p><span><span><img alt="" height="483" src="/images/51-3.png" width="858"></span></span></p>
+<p><span><span>4.對調後按enter</span></span></p>
+<p><span><span><img alt="" height="483" src="/images/51-4.png" width="858"></span></span></p>
