@@ -1,0 +1,11 @@
+<h2>W14</h2>
+<p><span>繪製 MTB robot 零組件後, 轉入&nbsp;CoppeliaSim 4.3.0 rev3</span><span><span>&nbsp;</span>建立 object 取放模擬場景</span></p>
+<p><img alt="" height="374" src="/images/w14 photo.png" width="700"><br><span></span></p>
+<div class="winkVideoContainerClass">
+<div class="winkVideoControlBarClass">
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
