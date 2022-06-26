@@ -1,0 +1,7 @@
+<h2>w13</h2>
+<p>下載<span>CoppeliaSim 4.3.0並安裝至電腦</span><span>用NX12繪製MTB Robot並組裝利用Coppeliasim模擬運轉</span></p>
+<p><span>----------------------------------</span></p>
+<p><span>Base&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; link1</span></p>
+<p><span><img caption="false" height="190" src="/images/13-1.png" width="142">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img caption="false" height="190" src="/images/13-2.png" width="147"></span></p>
+<p><span>link2&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MTB_assembly</span></p>
+<p><span><img alt="" height="190" src="/images/13-3.png" width="130">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img alt="" height="190" src="/images/13-4.png" width="208"></span></p>

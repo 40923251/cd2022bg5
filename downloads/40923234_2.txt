@@ -1,0 +1,375 @@
+<h1>About</h1>
+<p>40923234 Ran-Hao Yeh</p>
+<p>倉儲:<a href="https://github.com/40923234/cd2022">https://github.com/40923234/cd2022</a></p>
+<p>網站:<a href="https://40923234.github.io/cd2022/content/index.html">https://40923234.github.io/cd2022/content/index.html</a></p>
+<h1>group list</h1>
+<div></div>
+<div>
+<div>-----------<em><strong>個人</strong></em>-----------/------------<em><strong>小組</strong></em>-----------&nbsp; &nbsp; &nbsp; &nbsp;</div>
+<div><span>&nbsp; &nbsp; <strong>倉儲</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>網站</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>倉儲&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;網站</strong></span></div>
+<div><span></span></div>
+</div>
+<div id="brython_div"><span style="color: #800080;"><strong>第1組:</strong></span></div>
+<div></div>
+<div><a href="https://github.com/40923201/cd2022">40923201</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923201.github.io/cd2022">40923201</a><span>&nbsp;/&nbsp;</span><a href="https://github.com/40923201/cd2022bg1">40923201</a>&nbsp;--<span>&nbsp;</span><a href="https://40923201.github.io/cd2022bg1">40923201</a></div>
+<div><a href="https://github.com/40923205/cd2022">40923205</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923205.github.io/cd2022">40923205</a>&nbsp;/<span>&nbsp;</span><a href="https://github.com/40923205/cd2022bg1">40923205</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923205.github.io/cd2022bg1">40923205</a><br><a href="https://github.com/nfu40923208/cd2022">40923208</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://nfu40923208.github.io/cd2022">40923208</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/nfu40923208/cd2022bg1">40923208</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://nfu40923208.github.io/cd2022bg1">40923208</a><br><a href="https://github.com/40923210/cd2022">40923210</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923210.github.io/cd2022">40923210</a>&nbsp;/&nbsp;<a href="https://github.com/40923210/cd2022bg1">40923210</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923210.github.io/cd2022bg1">40923210</a><br><a href="https://github.com/40923217/cd2022">40923217</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923217.github.io/cd2022">40923217</a><span>&nbsp;/&nbsp;</span><a href="https://github.com/40923217/cd2022bg1">40923217</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923217.github.io/cd2022bg1">40923217</a><br><a href="https://github.com/40923230/cd2022">40923230</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923230.github.io/cd2022">40923230</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923230/cd2022bg1">40923230</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923230.github.io/cd2022bg1">40923230</a><br><a href="https://github.com/40923231/cd2022">40923231</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923231.github.io/cd2022">40923231</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923231/cd2022bg1">40923231</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923231.github.io/cd2022bg1">40923231</a><br><a href="https://github.com/40923235/cd2022">40923235</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923235.github.io/cd2022">40923235</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923235/cd2022bg1">40923235</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923235.github.io/cd2022bg1">40923235</a></div>
+<div></div>
+<div>------------------------------------------------------</div>
+<div></div>
+<div><strong><span style="color: #800080;">第2組:</span></strong></div>
+<div><br><a href="https://github.com/40823215/cd2022">40823215</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40823215.github.io/cd2022">40823215</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40823215/cd2022bg2">40823215</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40823215.github.io/cd2022bg2">40823215</a><br><a href="https://github.com/youshin40923203/cd2022">40923203</a><span>&nbsp;--&nbsp;</span><a href="https://youshin40923203.github.io/cd2022">40923203</a>&nbsp;/<span>&nbsp;</span><a href="https://github.com/youshin40923203/cd2022bg2">40923203</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://youshin40923203.github.io/cd2022bg2">40923203</a><br><a href="https://github.com/40923204/cd2022">40923204</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923204.github.io/cd2022">40923204</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923204/cd2022bg2">40923204</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923204.github.io/cd2022bg2">40923204</a><br><a href="https://github.com/40923207/cd2022">40923207</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923207.github.io/cd2022">40923207</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923207/cd2022bg2">40923207</a><span>&nbsp;--&nbsp;</span><a href="https://40923207.github.io/cd2022bg2">40923207</a><br><a href="https://github.com/nfu40923209/cd2022">40923209</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://nfu40923209.github.io/cd2022">40923209</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/nfu40923209/cd2022bg2">40923209</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://nfu40923209.github.io/cd2022bg2">40923209</a><br><a href="https://github.com/40923213/cd2022">40923213</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923213.github.io/cd2022">40923213</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923213/cd2022bg2">40923213</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923213.github.io/cd2022bg2">40923213</a><br><a href="https://github.com/40923220/cd2022">40923220</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923220.github.io/cd2022">40923220</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923220/cd2022bg2">40923220</a><span>&nbsp;--&nbsp;</span><a href="https://40923220.github.io/cd2022bg2">40923220</a><br><a href="https://github.com/40923240/cd2022">40923240</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923240.github.io/cd2022">40923240</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923240/cd2022bg2">40923240</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923240.github.io/cd2022bg2">40923240</a></div>
+<div></div>
+<div><span style="color: #800080;">-------------------------------------------------------</span></div>
+<div><strong><span style="color: #800080;"></span></strong></div>
+<div><strong><span style="color: #800080;">第3組:</span></strong></div>
+<div><br><a href="https://github.com/40923226/cd2022">40923226</a>&nbsp;--&nbsp;<a href="https://40923226.github.io/cd2022">40923226</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923226/cd2022bg3">40923226</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923226.github.io/cd2022bg3">40923226</a><br><a href="https://github.com/40923242/cd2022">40923242</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923242.github.io/cd2022">40923242</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923242/cd2022bg3">40923242</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923242.github.io/cd2022bg3">40923242</a><br><a href="https://github.com/40923245-1/cd2022">40923245</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923245-1.github.io/cd2022">40923245</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923245-1/cd2022bg3">40923245</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923245-1.github.io/cd2022bg3">40923245</a><br><a href="https://github.com/40923247/cd2022">40923247</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923247.github.io/cd2022">40923247</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923247/cd2022bg3">40923247</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923247.github.io/cd2022bg3">40923247</a><br><a href="https://github.com/40923249-1/cd2022">40923249</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923249-1.github.io/cd2022">40923249</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923249-1/cd2022bg3">40923249</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923249-1.github.io/cd2022bg3">40923249</a><br><a href="https://github.com/40923252/cd2022">40923252</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923252.github.io/cd2022">40923252</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923252/cd2022bg3">40923252</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923252.github.io/cd2022bg3">40923252</a><br><a href="https://github.com/40923206-1/cd2022">40923206</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923206-1.github.io/cd2022">40923206</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923206-1/cd2022bg3">40923206</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923206-1.github.io/cd2022bg3">40923206</a><br><a href="https://github.com/s40923224/cd2022">40923224</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://s40923224.github.io/cd2022">40923224</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/s40923224/cd2022bg3">40923224</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://s40923224.github.io/cd2022bg3">40923224</a></div>
+<div></div>
+<div><span style="color: #800080;">------------------------------------------------------</span></div>
+<div><strong><span style="color: #800080;"></span></strong></div>
+<div><strong><span style="color: #800080;">第4組:</span></strong></div>
+<div><br><a href="https://github.com/40623143/cd2022">40623143</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40623143.github.io/cd2022">40623143</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40623143/cd2022bg4">40623143</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40623143.github.io/cd2022bg4">40623143</a><br><a href="https://github.com/40723146/cd2022">40723146</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40723146.github.io/cd2022">40723146</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40723146/cd2022bg4">40723146</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40723146.github.io/cd2022bg4">40723146</a><br><a href="https://github.com/a40923211/cd2022">40923211</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://a40923211.github.io/cd2022">40923211</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/a40923211/cd2022bg4">40923211</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://a40923211.github.io/cd2022bg4">40923211</a><br><a href="https://github.com/40923218/cd2022">40923218</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923218.github.io/cd2022">40923218</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923218/cd2022bg4">40923218</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923218.github.io/cd2022bg4">40923218</a><br><a href="https://github.com/40923221/cd2022">40923221</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923221.github.io/cd2022">40923221</a><span>&nbsp;</span>/<span>&nbsp;</span><a href="https://github.com/40923221/cd2022bg4">40923221</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923221.github.io/cd2022bg4">40923221</a><br><a href="https://github.com/40923223/cd2022">40923223</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923223.github.io/cd2022">40923223</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923223/cd2022bg4">40923223</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923223.github.io/cd2022bg4">40923223</a><br><a href="https://github.com/40923227/cd2022">40923227</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923227.github.io/cd2022">40923227</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923227/cd2022bg4">40923227</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923227.github.io/cd2022bg4">40923227</a><br><a href="https://github.com/40923238/cd2022">40923238</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923238.github.io/cd2022">40923238</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923238/cd2022bg4">40923238</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923238.github.io/cd2022bg4">40923238</a><br><a href="https://github.com/40923243/cd2022">40923243</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923243.github.io/cd2022">40923243</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923243/cd2022bg4">40923243</a><span>&nbsp;</span>--<span>&nbsp;</span><a href="https://40923243.github.io/cd2022bg4">40923243</a></div>
+<div></div>
+<div>
+<div><span style="color: #800080;">------------------------------------------------------</span></div>
+</div>
+<div></div>
+<div><strong><span style="color: #800080;">第5組:</span></strong></div>
+<div><br><a href="https://github.com/40923212/cd2022">40923212</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923212.github.io/cd2022">40923212</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923212/cd2022bg5">40923212</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923212.github.io/cd2022bg5">40923212</a><br><span style="background-color: #ffffff; color: #0000ff;"><a href="https://github.com/40923229/cd2022" style="background-color: #ffffff; color: #0000ff;">40923229</a></span><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923229.github.io/cd2022">40923229</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923229/cd2022bg5">40923229</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923229.github.io/cd2022bg5">40923229</a><br><span style="color: #0000ff;"><a href="https://github.com/40923233/cd2022" style="color: #0000ff;">40923233</a></span><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923233.github.io/cd2022">40923233</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923233/cd2022bg5">40923233</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923233.github.io/cd2022bg5">40923233</a><br><a href="https://github.com/40923234/cd2022">40923234</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923234.github.io/cd2022">40923234</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923234/cd2022bg5">40923234</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923234.github.io/cd2022bg5">40923234</a><br><a href="https://github.com/40923237/cd2022">40923237</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923237.github.io/cd2022">40923237</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923237/cd2022bg5">40923237</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923237.github.io/cd2022bg5">40923237</a><br><a href="https://github.com/40923251/cd2022">40923251</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923251.github.io/cd2022">40923251</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923251/cd2022bg5">40923251</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923251.github.io/cd2022bg5">40923251</a><br><a href="https://github.com/40923253/cd2022">40923253</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923253.github.io/cd2022">40923253</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923253/cd2022bg5">40923253</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923253.github.io/cd2022bg5">40923253</a><br><a href="https://github.com/40971220/cd2022">40971220</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40971220.github.io/cd2022">40971220</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40971220/cd2022bg5">40971220</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40971220.github.io/cd2022bg5">40971220</a></div>
+<div></div>
+<div>
+<div><span style="color: #800080;">------------------------------------------------------</span></div>
+</div>
+<div></div>
+<div><strong><span style="color: #800080;">第6組:</span></strong></div>
+<div><br><a href="https://github.com/40723217/cd2022">40723217</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40723217.github.io/cd2022">40723217</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40723217/cd2022bg6">40723217</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40723217.github.io/cd2022bg6">40723217</a><br><a href="https://github.com/nfu40923219/cd2022">40923219</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://nfu40923219.github.io/cd2022">40923219</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/nfu40923219/cd2022bg6">40923219</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://nfu40923219.github.io/cd2022bg6">40923219</a><br><a href="https://github.com/40923225/cd2022">40923225</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923225.github.io/cd2022">40923225</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923225/cd2022bg6">40923225</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923225.github.io/cd2022bg6">40923225</a><br><a href="https://github.com/40923232/cd2022">40923232</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923232.github.io/cd2022">40923232</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923232/cd2022bg6">40923232</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923232.github.io/cd2022bg6">40923232</a><br><a href="https://github.com/40923236/cd2022">40923236</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923236.github.io/cd2022">40923236</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923236/cd2022bg6">40923236</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923236.github.io/cd2022bg6">40923236</a><br><a href="https://github.com/40923241/cd2022">40923241</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923241.github.io/cd2022">40923241</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923241/cd2022bg6">40923241</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923241.github.io/cd2022bg6">40923241</a><br><a href="https://github.com/40923246/cd2022">40923246</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923246.github.io/cd2022">40923246</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923246/cd2022bg6">40923246</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923246.github.io/cd2022bg6">40923246</a><br><a href="https://github.com/40923250/cd2022">40923250</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923250.github.io/cd2022">40923250</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923250/cd2022bg6">40923250</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923250.github.io/cd2022bg6">40923250</a></div>
+<div></div>
+<div>
+<div><span style="color: #800080;">------------------------------------------------------</span></div>
+</div>
+<div></div>
+<div><strong><span style="color: #800080;">第7組:</span></strong></div>
+<div><br><a href="https://github.com/40723134/cd2022">40723134</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40723134.github.io/cd2022">40723134</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40723134/cd2022bg7">40723134</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40723134.github.io/cd2022bg7">40723134</a><br><a href="https://github.com/s40723136/cd2022">40723136</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://s40723136.github.io/cd2022">40723136</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/s40723136/cd2022bg7">40723136</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://s40723136.github.io/cd2022bg7">40723136</a><br><a href="https://github.com/40732331/cd2022">40732331</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40732331.github.io/cd2022">40732331</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40732331/cd2022bg7">40732331</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40732331.github.io/cd2022bg7">40732331</a><br><a href="https://github.com/40923214/cd2022">40923214</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923214.github.io/cd2022">40923214</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923214/cd2022bg7">40923214</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923214.github.io/cd2022bg7">40923214</a><br><a href="https://github.com/40923228/cd2022">40923228</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923228.github.io/cd2022">40923228</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923228/cd2022bg7">40923228</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923228.github.io/cd2022bg7">40923228</a><br><a href="https://github.com/40923248/cd2022">40923248</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923248.github.io/cd2022">40923248</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923248/cd2022bg7">40923248</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923248.github.io/cd2022bg7">40923248</a><br><a href="https://github.com/40923216/cd2022">40923216</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923216.github.io/cd2022">40923216</a><span>&nbsp;/</span><span>&nbsp;</span><a href="https://github.com/40923216/cd2022bg7">40923216</a><span>&nbsp;--</span><span>&nbsp;</span><a href="https://40923216.github.io/cd2022bg7">40923216</a></div>
+<p><span><span></span></span></p>
+<h1>每週進度</h1>
+<h2>w1</h2>
+<h3>IPV6設定</h3>
+<p><br><br><br><br></p>
+<p><span>設定-&gt;網路和網際網路-&gt;Proxy-&gt;</span></p>
+<p><span><img caption="false" height="521" src="https://40923207.github.io/cd2022/images/proxy.png" width="300"></span></p>
+<p><span>乙太網路<span>-&gt;變更介面卡選項-&gt;又鍵點選"乙太網路"-&gt;內容-&gt;取消勾選網際通訊協定第四版(TCP/IPv4)</span></span></p>
+<p><span><span><img alt="" height="382" src="https://40923207.github.io/cd2022/images/IPv4.png" width="300"></span></span></p>
+<h2>w2</h2>
+<h3>分組連結製作</h3>
+<p>先將老師<a href="https://github.com/mdecourse/studlist/commit/863b4f8638798198dffacb6d38e443bdb2373b55">統計好的GitHub帳號</a>整理至excel，再使用hyperlink函數快速完成全班的GitHub pages和GitHub warehousing並完成網站</p>
+<p>操作步驟：</p>
+<p>先在要產生網址的地方輸入函數=HYPERLINK("https://"&amp;B2&amp;".github.io/cd2022/content/index.html")</p>
+<p>其中&amp;<span>B</span>2&amp;是指那個位置輸入<span>B</span>2那格的內容，且<span>B</span>2前後要加&ldquo;&amp;&rdquo;</p>
+<p><span>輸入完&ldquo;https://"&amp;B2&amp;".github.io/cd2022/content/index.html&rdquo;後，如果想讓顯示的網址名稱不是整段網址，可在最後面/和&rdquo;中間打上，</span><strong>想要的名稱</strong><span>（可輸入表格位置表示以那個位置名稱顯示出超連結）</span></p>
+<p><span>將有進行函式的格子向下拉皆套入公式</span></p>
+<p><span><img height="302" src="https://40923207.github.io/cd2022/images/excel.PNG" width="429"></span></p>
+<p><span>再將excel內容依組別整理後複製貼上網頁</span></p>
+<h2>w3</h2>
+<h2>w4</h2>
+<h3>NX1980網路授權更改</h3>
+<p><strong>*原先的設定</strong></p>
+<p><img alt="" height="101" src="https://40923207.github.io/cd2022/images/nx1.PNG" width="558"></p>
+<p><strong>*可用分號隔開即可不用在切換網路時更改程式碼</strong></p>
+<p><strong></strong></p>
+<p><img alt="" height="44" src="https://40923207.github.io/cd2022/images/nx2.PNG" width="911"></p>
+<p><strong>*IPV4</strong></p>
+<p>set SPLM_LICENSE_SERVER=28000@140.130.17.37</p>
+<p><strong>近端主機授權</strong></p>
+<p><span>set SPLM_LICENSE_SERVER=28000@［2001:288:6004:17::37］</span></p>
+<p><strong>*IPV6</strong></p>
+<p><span>set SPLM_LICENSE_SERVER=28000@192.168.56.3</span></p>
+<p><br><span>倉儲容量大, 且網路連線不穩定時 &lt;&lt;<span>&nbsp;</span></span><a href="https://40923207.github.io/cd2022/content/%E5%80%89%E5%84%B2%E5%AE%B9%E9%87%8F%E5%A4%A7,%20%E4%B8%94%E7%B6%B2%E8%B7%AF%E9%80%A3%E7%B7%9A%E4%B8%8D%E7%A9%A9%E5%AE%9A%E6%99%82.html">Previous</a><span><span>&nbsp;</span></span><a href="https://40923207.github.io/cd2022/content/fork.html">Next</a><span><span>&nbsp;</span>&gt;&gt; fork</span></p>
+<h3>create download</h3>
+<p><span></span></p>
+<p><span>1.在大組倉儲按Create new file</span></p>
+<p><span><img alt="" height="257" src="https://40923251.github.io/cd2022/images/1111111.png" width="457"></span></p>
+<p><span>2.輸入名稱</span></p>
+<h2>w5</h2>
+<h3>逆向更新大組倉儲內容</h3>
+<p><span>按Pull requests</span></p>
+<p><img alt="" height="483" src="/images/34-1.png" width="858"></p>
+<p><span>按New&nbsp;</span><span>Pull request</span></p>
+<p><span><img alt="" height="483" src="/images/34-2.png" width="858"></span></p>
+<p><span>原先按近來顯示的網址要將其對調</span></p>
+<p><span><img alt="" height="483" src="/images/34-3.png" width="858"></span></p>
+<p><span>對調後按 enter</span></p>
+<p><span></span></p>
+<h2>w6</h2>
+<p>建立blog</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/w6.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<h2>w7</h2>
+<p>Blog查驗:<a href="https://40923234.github.io/cd2022/blog/index.html">https://40923234.github.io/cd2022/blog/index.html</a></p>
+<h4>設法以隨身程式系統編譯此程式碼:</h4>
+<ol>
+<li>git clone<span>&nbsp;</span><a href="https://github.com/mdecourse/scarysim.git">https://github.com/mdecourse/scarysim.git</a></li>
+<li>修改 scarysim.pro, 蓋掉第 11 行, 成為 # LIBS&nbsp;&nbsp;&nbsp;&nbsp; += -lglut -lGLU</li>
+<li>cd scarysim</li>
+<li>qmake -o Makefile scarysim.pro</li>
+<li>mingw32-make -f Makefile.Release 可以在 release 目錄取得 scarysim.exe</li>
+<li>因為 scarysim.exe 執行需要 base.obj, arm1.obj, arm2.obj, arm3.obj 等零件外型檔案, 以及對應的 .mtl 材質檔案, 因此可將 scarysim.exe 移至倉儲根目錄, 並且需要 msys64_20210419\mingw64\bin 路徑中的 dll 動態連結程式庫配合執行.</li>
+<li>由於此套程式碼在 Target 模式下, 零組件間會造成干涉, 表示其 Inverse Kinematic 運算並不正確, 請設法修正此錯誤後, 修改其零件尺寸與操作控制方法, 設法模擬 MTB 的<span>&nbsp;</span><a href="https://www.youtube.com/results?search_query=mtb+robot">Pick and Place demo</a><span>&nbsp;</span>範例.</li>
+<li>請各組指定組員分別利用 Solvespace、NX12、NX1980、NX2008 與 Onshape 繪製<span>&nbsp;</span><a href="https://www.youtube.com/results?search_query=mtb+robot">Pick and Place demo</a><span>&nbsp;</span>範例所需的零組件, 並完成 Coppeliasim 4.1.0、4.2.0 與 4.3.0 版的 MTB 機械手臂 Pick and Place 模擬, 完成後請說明在使用不同 MCAD 系統與版次的情況下, 該如何執行協同產品設計專案.</li>
+</ol>
+<h2>w10</h2>
+<p>請各組員在下列影片中加入註解說明後, 分別以 w10_block_ui、w10_nx_integ 與 w10_ssh 作為標題, 將說明影片嵌入個人 cd2022 網站頁面 (設為 H2 或 H3) 及 blog 網誌中.</p>
+<p>w10-1 任務執行步驟:</p>
+<ol>
+<li><a href="https://github.com/mdecycu/cd2022_guide/raw/main/downloads/w10_block_ui/w10_block_ui.wnk">下載 w10_block_ui.wnk</a></li>
+<li>利用 Wink 開啟專案</li>
+<li>在各頁面加入說明標註</li>
+<li>若有其他附加頁面, 則需縮至 1008x630 後插入適當位置</li>
+<li>完成後轉出對應的 mp4 放入頁面與網誌</li>
+</ol>
+<p></p>
+<p><br><br><br><br><br><span>有加文字的wink上傳步驟</span></p>
+<p><span></span></p>
+<p><span>&lt;script&gt;// &lt;![CDATA[</span><br><span>var winkVideoData = {</span><br><span>dataVersion: 1,</span><br><span>frameRate: 20,</span><br><span>buttonFrameLength: 10,</span><br><span>buttonFrameOffset: 5,</span><br><span>frameStops: {</span><br><span>},</span><br><span>};(這段刪除後貼上wink影片的.js檔)</span><br><span>// ]]&gt;&lt;/script&gt;</span><br><span>&lt;/code&gt;&lt;/pre&gt;</span><br><span>&lt;div class="winkVideoContainerClass"&gt;&lt;video width="960" height="540" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData"&gt;</span><br><span>&lt;source src="./../downloads/</span><span>test(改成影片名稱)</span><span>.mp4" type="video/mp4" /&gt;&lt;/video&gt;</span><br><span>&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;</span><br><span>&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;</span><br><span>&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;</span><br><span>&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;/div&gt;</span><br><span>&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;</span><br><span>&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;</span><br><span>&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;</span><br><span>&lt;/div&gt;</span><br><span>&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;</span><br><span>&lt;/div&gt;</span></p>
+<p><span></span></p>
+<p>1.刪除「<span>./../cmsimde</span>」</p>
+<p>&nbsp; ex:<span><span>dirname="/static</span>"</span></p>
+<p>2.改成自己wink影片的尺寸「<span>height="540" width="960"</span>」<span><br></span></p>
+<p>&nbsp; ex:<span><span>height="800" width="1200</span>"</span></p>
+<p>3.改成自己影片的路徑及名稱「<span>wink/meArm_robot_wink</span>」</p>
+<p>&nbsp; ex:<span>&lt;source src="./../downloads/</span><span>test</span><span>.mp4"<span>&nbsp;</span></span></p>
+<p><span><span></span></span></p>
+<p><strong>改好後會像圖片這樣，紅色框的內容可避免wink影片重疊，分別加在wink影片原始碼前後</strong></p>
+<h2>w11</h2>
+<p>如何將各組員所做的任務推送給組長給其整合至大組的網頁中</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/w11.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<h1>online</h1>
+<h2>w13</h2>
+<p>下載<span>CoppeliaSim 4.3.0並安裝</span></p>
+<p><span>用NX12繪製MTB Robot並組裝利用Coppeliasim模擬運轉</span></p>
+<p><span><img alt="" height="312" src="/images/螢幕擷取畫面 2022-06-09 130017.jpg" width="288"></span></p>
+<p><span><img alt="" height="382" src="/images/螢幕擷取畫面 2022-06-09 125842.jpg" width="382"></span></p>
+<p><span><img alt="" height="379" src="/images/螢幕擷取畫面 2022-06-09 125909.jpg" width="382"></span></p>
+<p><span><img alt="" height="384" src="/images/螢幕擷取畫面 2022-06-09 125927.jpg" width="382"></span></p>
+<p><span><img alt="" height="382" src="/images/螢幕擷取畫面 2022-06-09 125943.jpg" width="379"></span></p>
+<p><span><img alt="" height="385" src="/images/螢幕擷取畫面 2022-06-09 125957.jpg" width="381"><br></span></p>
+<h2>w14</h2>
+<p><a href="https://drive.google.com/file/d/1N69DBCZ8xAoSjRnC8brtEs8FzMPCmBR0/view?usp=sharing">MTB_nx_robot.zip</a></p>
+<p><img alt="" height="1006" src="/images/螢幕擷取畫面 2022-06-16 135410.jpg" width="1920"></p>
+<div class="winkVideoContainerClass">
+<div class="winkVideoControlBarClass">
+<div class="winkVideoControlBarProgressLeftClass">
+<h2>w15</h2>
+<p><a href="https://drive.google.com/file/d/1AmkWHSmJEvRKeXyBynCuaAF8-uot95ms/view?usp=sharing">零件檔</a></p>
+<p>K L 控制底盤</p>
+<p>H J&nbsp;<span>控制joint2</span></p>
+<p>F G<span>&nbsp;</span><span>控制joint3</span></p>
+<p>P 吸起方塊</p>
+<p><img alt="" height="1009" src="/images/螢幕擷取畫面 2022-06-22 133251.jpg" width="1920"></p>
+<h2>w16</h2>
+<p>第一題</p>
+<ol>
+<li>x:+3087#</li>
+<li>y:+2469#</li>
+<li>z:+4339#</li>
+</ol>
+<p>wink:</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/w16_1_34.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>第二題</p>
+<ol>
+<li>joint1:-10</li>
+<li>joint2:-27~-28</li>
+<li>joint3:-32~-33</li>
+</ol>
+<p><span>吸盤末端中心點將移動至紅色方塊頂端中心</span></p>
+<p>wink:</p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/w16_2_34.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<h2>w17</h2>
+<p><span>Tic-Tae-Toe</span></p>
+<p>wink:</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/w17.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<h1>midterm</h1>
+<p><a href="https://drive.google.com/file/d/1DErGjswZY0nfzAvmjMT_f-OPeWlTlEFz/view?usp=sharing">Solvespace 各部位零件</a></p>
+<p></p>
+<h1>H2</h1>
+<h2>w10 Block UI</h2>
+<p></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="960" height="540" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923234.github.io/cd2022/downloads/34.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<h2>w10_nx_integ</h2>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/W10-2-51.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<h2>w10_ssh</h2>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/40923234.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<h1>問題與解決辦法</h1>
+<p>網站404，是因為改h1的大標讓系統找不到，左上角網址是w2.html是原本從W2.html改過來的</p>
+<p><img alt="" height="448" src="/images/螢幕擷取畫面 2022-05-26 142155.jpg" width="1009"></p>
+<p><img alt="" height="449" src="/images/螢幕擷取畫面 2022-05-26 142339.jpg" width="1005"></p>
+<p>如果用原本的大標題去找就會有，是改大標題的問題</p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,7 @@
+<h3>逆向更新大組倉儲</h3>
+<p><span>1.按Pull requests</span></p>
+<p><span><img alt="" height="404" src="/images/37-1.png" width="718"></span></p>
+<p><span>2.點擊New&nbsp;</span><span>Pull request</span></p>
+<p><span><img alt="" height="483" src="/images/37-2.png" width="858"></span></p>
+<p><span>3.原先按近來顯示的網址要將其對調並對調後按enter</span></p>
+<p><img alt="" height="483" src="/images/37-3.png" width="858"></p>

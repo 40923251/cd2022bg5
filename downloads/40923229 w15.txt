@@ -1,0 +1,4 @@
+<p><span>joint1為控制左右移動，</span><span>K</span><span>為逆時針，L為順時針</span></p>
+<p><span>joint2為控制前後移動，<span>H</span><span>為逆時針，J<span>為順時針</span></span></span></p>
+<p><span><span><span>joint3為控制上下移動<span>，</span><span>F</span><span>為逆時針，<span>G</span><span>為順時針</span></span></span></span></span></p>
+<p><img alt="" height="1040" src="https://40923229.github.io/cd2022/images/w15.png" width="1920"></p>
